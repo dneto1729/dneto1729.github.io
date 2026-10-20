@@ -1,12 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Coming Soon..."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+<!--
+David Neto is a Postdoctoral Scholar at the Facility for Rare Isotope Beams at Michigan State University working in the field of nuclear astrophysics. He earned a BA in Physics and Mathematics from Rhode Island College in 2011, and his PhD in Physics from the University of Illinois Chicago in 2025. During his time at the University of Illinois Chicago he worked on several low energy nuclear physics experiments, such as the joint Argonne National Laboratory and Jefferson Lab bubble chamber experiment and the Argonne active target MUSIC detector. During his graduate work he received a DOE SCGSR Award to test and develop machine learning methods for experiments with the MUSIC detector at Argonne. Followed by a further two years as a graduate student in the Argonne Physics Division completing his thesis research. At Michigan State University, his current work concerns updating the JINA-REACLIB thermonuclear reaction rate database for the CeNAM collaboration, and he is a member of both APS and AAS.
+-->
+
+<!--
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
@@ -52,5 +57,6 @@ Example: editing a Markdown file for a talk
 ![Editing a Markdown file for a talk](/images/editing-talk.png)
 
 For more info
+-->
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
