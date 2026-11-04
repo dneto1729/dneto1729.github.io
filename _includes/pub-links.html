@@ -1,0 +1,14 @@
+{% assign p = include.item %}
+{% assign sep = "" %}
+{% capture pub_links %}
+  {%- if p.paperurl and p.paperurl != "" -%}{{ sep }}<a href="{{ p.paperurl }}">Journal</a>{% assign sep = " | " %}{%- endif -%}
+  {%- if p.arxivurl and p.arxivurl != "" -%}{{ sep }}<a href="{{ p.arxivurl }}">arXiv</a>{% assign sep = " | " %}{%- endif -%}
+  {%- if p.bibtexurl and p.bibtexurl != "" -%}{{ sep }}<a href="{{ p.bibtexurl }}">BibTeX</a>{%- endif -%}
+{% endcapture %}
+{% assign pub_links = pub_links | strip %}
+{% if p.citation or pub_links != "" %}
+  <p{% if include.small %} style="font-size: smaller"{% endif %}>
+    {%- if p.citation -%}Recommended citation: {{ p.citation }}{% if pub_links != "" %}<br />{% endif %}{%- endif -%}
+    {{- pub_links -}}
+  </p>
+{% endif %}
