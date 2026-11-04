@@ -6,8 +6,8 @@ permalink: /publication/2026-02-15-GeochimCosmochimActa415
 excerpt: 'Experiment at ATLAS using AMS to measure isotopic profile of samples prepared with NIF.'
 date: 2026-02-15
 venue: 'Geochim. Cosmochim. Acta 415, 196'
-slidesurl: ''
-paperurl: ''
+paperurl: 'https://doi.org/10.1016/j.gca.2025.12.041'
+arxivurl: 'https://doi.org/10.48550/arXiv.2512.18433'
 citation: 'Bhattacharya et al., Geochim. Cosmochim. Acta 415, 196'
 ---
 
