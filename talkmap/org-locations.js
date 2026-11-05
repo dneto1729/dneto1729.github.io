@@ -1,5 +1,20 @@
 var addressPoints = [
   [
+    "ComSciCon-Chicago<br />British International School Chicago, Lincoln Park; Chicago, IL, USA",
+    41.907758755682416,
+    -87.64876198715788
+  ],
+  [
+    "ComSciCon-AIP<br />American Center for Physics; College Park, MD, USA",
+    38.97165505676702,
+    -76.92999832870017
+  ],
+  [
+    ".Astronomy 11<br />Dunlap Institute, University of Toronto; Chestnut Residence and Conference Centre, Toronto, CA",
+    43.65446064863595,
+    -79.38531707993413
+  ],
+  [
     "Exotic Beam Summer School<br />University of Notre Dame; Jordan Hall of Science, Notre Dame, IN, USA",
     41.7008342722884,
     -86.23188763440416
