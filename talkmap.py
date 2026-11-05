@@ -30,13 +30,14 @@ for file in g:
     data = frontmatter.load(file)
     data = data.to_dict()
 
-    # Press on if the location is not present
-    if 'location' not in data:
+    # Skip talks with no physical location (missing, blank, or virtual)
+    location = str(data.get('location') or '').strip()
+    if location == '' or location.lower() in ('virtual', 'online', 'remote'):
         continue
 
     # Prepare the description
     title = data['title'].strip()
-    venue = data['venue'].strip()
+    # venue = data['venue'].strip()
     location = data['location'].strip()
     description = f"{title}<br />{venue}; {location}"
 
