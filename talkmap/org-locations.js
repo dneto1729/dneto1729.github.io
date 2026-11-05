@@ -1,22 +1,17 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "Exotic Beam Summer School<br />University of Notre Dame; Jordan Hall of Science, Notre Dame, IN, USA",
+    41.7009098,
+    -86.2319492
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Measuring the cross section of the 15N(a,g)19F reaction using a single fluid bubble chamber<br />CAARI-SNEAP Meeting; Fort Worth, TX, USA",
+    32.753177,
+    -97.3327459
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
-  ],
-  [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "From Bubbles to MUSIC: Experiments with Active Target Detectors<br />APS Fall DNP Meeting; Philadelphia Marriott Downtown, Philadelphia, PA, USA",
+    39.952543,
+    -75.1606041
   ]
 ];
