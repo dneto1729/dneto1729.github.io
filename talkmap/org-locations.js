@@ -35,11 +35,6 @@ var addressPoints = [
     -86.23188763440416
   ],
   [
-    ".Astronomy 12<br />Center for Computational Astrophysics; Center for Computational Astrophysics, New York, NY, USA",
-    40.7406504962054,
-    -73.99081052947064
-  ],
-  [
     ".Astronomy 12<br />Center for Computational Astrophysics; New York, NY, USA",
     40.7406504962054,
     -73.99081052947064
