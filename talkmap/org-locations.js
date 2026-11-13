@@ -5,7 +5,7 @@ var addressPoints = [
     -87.64876198715788
   ],
   [
-    "A single fluid bubble chamber for measuring nuclear reaction rates of astrophysical importance.<br />; Denver, CO, USA",
+    "A single fluid bubble chamber for measuring nuclear reaction rates of astrophysical importance.<br />APS April Meeting; Denver, CO, USA",
     39.74237259231815,
     -104.98983883631928
   ],
